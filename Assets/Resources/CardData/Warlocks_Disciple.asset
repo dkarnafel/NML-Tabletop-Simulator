@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0932eb573901eba4bbea025ea44dcb7f, type: 3}
+  m_Name: Warlocks_Disciple
+  m_EditorClassIdentifier: 
+  id: 0
+  cardName: Warlock's Disciple
+  frontSprite: {fileID: 2106559323674294389, guid: 5487c33a6a30bc04082fe4e73f58a3a3, type: 3}
+  backSprite: {fileID: -2508225034509640930, guid: 345b81c0d6c19794d8de5455f8a568ec, type: 3}
+  deckList: {fileID: 5943298742162347758, guid: b648a38f2aa0e424e9769145825db319, type: 3}
+  cardtype: 00000000
+  resources: 02000000

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0932eb573901eba4bbea025ea44dcb7f, type: 3}
+  m_Name: Sentinel_of_the_Hearthj
+  m_EditorClassIdentifier: 
+  id: 0
+  cardName: Sentinel of the Hearth
+  frontSprite: {fileID: 7184065747347778082, guid: aad7d93eff850a84ea51cdf358071b64, type: 3}
+  backSprite: {fileID: -2508225034509640930, guid: 345b81c0d6c19794d8de5455f8a568ec, type: 3}
+  deckList: {fileID: 6201047644820656111, guid: 6e1da995d3a2e8c4883c36a80aa1734f, type: 3}
+  cardtype: 00000000
+  resources: 0000000001000000

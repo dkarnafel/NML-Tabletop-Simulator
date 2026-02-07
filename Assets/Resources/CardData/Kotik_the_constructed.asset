@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0932eb573901eba4bbea025ea44dcb7f, type: 3}
+  m_Name: Kotik_the_constructed
+  m_EditorClassIdentifier: 
+  cardName: Kotik the Constructed
+  frontSprite: {fileID: -1979130925954951614, guid: cdd0227604171e04a9204a8373a44c0d, type: 3}
+  backSprite: {fileID: -2508225034509640930, guid: 345b81c0d6c19794d8de5455f8a568ec, type: 3}
+  deckList: {fileID: -1955551161142285407, guid: 27d97146fd0c3ff4782629c7de807572, type: 3}
+  cardtype: 00000000
+  resources: 03000000

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0932eb573901eba4bbea025ea44dcb7f, type: 3}
+  m_Name: Longest_Bow_Woman
+  m_EditorClassIdentifier: 
+  id: 0
+  cardName: Longest Bow Woman
+  frontSprite: {fileID: 1143015352761937661, guid: c4a6375ce2a0f224fbcf0903dd2974ae, type: 3}
+  backSprite: {fileID: -2508225034509640930, guid: 345b81c0d6c19794d8de5455f8a568ec, type: 3}
+  deckList: {fileID: 7170459965780422888, guid: 0502febb0faf9f44aa3b0df42ceb7294, type: 3}
+  cardtype: 00000000
+  resources: 01000000

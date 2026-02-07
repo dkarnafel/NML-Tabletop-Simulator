@@ -1,0 +1,20 @@
+{
+    "asset": "bc920f8192c164341b7973d7f75d91e1",
+    "fileName": "019b8783-f3d9-7f1e-b8ce-6c3c3c363bc6.png",
+    "prompt": "Update the arrow to be white",
+    "negativePrompt": "",
+    "model": "0409c144-da57-44a7-b531-72bc9a32fa4f",
+    "modelName": "GPT Image 1 - High",
+    "customSeed": -1,
+    "w3CTraceId": "e5e0d8f8b90a5e9873ce5420ba5315a1",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

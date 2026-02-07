@@ -1,0 +1,11 @@
+{
+    "asset": "46377e8f3f4b33a43a8ba0d8b7752b49",
+    "fileName": "0198cad7-1b99-7a05-88ad-b01e7c7c6449.pose.json",
+    "prompt": "two worlds colliding",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 1780564260,
+    "w3CTraceId": "fcd56343e67f7c974d74d2fdd2e4ebea",
+    "isTrimmed": false
+}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0932eb573901eba4bbea025ea44dcb7f, type: 3}
+  m_Name: Troop_Leader
+  m_EditorClassIdentifier: 
+  cardName: Troop Leader
+  frontSprite: {fileID: 4399433666821369075, guid: 017abd10e48e628489890b99d7c7eff6, type: 3}
+  backSprite: {fileID: -2508225034509640930, guid: 345b81c0d6c19794d8de5455f8a568ec, type: 3}
+  deckList: {fileID: -7913205477436216722, guid: 669c7ca620e595847a983de63b8d0dc0, type: 3}
+  cardtype: 00000000
+  resources: 00000000

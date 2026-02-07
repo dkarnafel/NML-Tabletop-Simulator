@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0932eb573901eba4bbea025ea44dcb7f, type: 3}
+  m_Name: Energy_Gifter
+  m_EditorClassIdentifier: 
+  id: 0
+  cardName: Energy Gifter
+  frontSprite: {fileID: 1084543810396596384, guid: 90e485d09d285204c889a92bf58c6c31, type: 3}
+  backSprite: {fileID: -2508225034509640930, guid: 345b81c0d6c19794d8de5455f8a568ec, type: 3}
+  deckList: {fileID: -5149457192910532915, guid: daa325a3a764d5a498b212c1392341f1, type: 3}
+  cardtype: 00000000
+  resources: 02000000

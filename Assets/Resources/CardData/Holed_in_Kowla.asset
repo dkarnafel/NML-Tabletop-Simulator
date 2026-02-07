@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0932eb573901eba4bbea025ea44dcb7f, type: 3}
+  m_Name: Holed_in_Kowla
+  m_EditorClassIdentifier: 
+  cardName: Holed in Kowla
+  frontSprite: {fileID: -199323343146632947, guid: 80c8dc0f34576784e85639fe588d11ee, type: 3}
+  backSprite: {fileID: -2508225034509640930, guid: 345b81c0d6c19794d8de5455f8a568ec, type: 3}
+  deckList: {fileID: -6723302993799119581, guid: e3877b323099e0b47b0994a25b8ec3fb, type: 3}
+  cardtype: 00000000
+  resources: 02000000

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0932eb573901eba4bbea025ea44dcb7f, type: 3}
+  m_Name: Friendly_Behemoth
+  m_EditorClassIdentifier: 
+  cardName: Friendly Behemoth
+  frontSprite: {fileID: 291424534593028126, guid: 098343b05f1a75e4ebf857ad4b81d7f5, type: 3}
+  backSprite: {fileID: -2508225034509640930, guid: 345b81c0d6c19794d8de5455f8a568ec, type: 3}
+  deckList: {fileID: 4220280097163413393, guid: 3bde7bca215f0194c946db4746a4a003, type: 3}
+  cardtype: 00000000
+  resources: 01000000

@@ -1,0 +1,20 @@
+{
+    "asset": "6bbc5c93a36673a4ebde4e23de90a27c",
+    "fileName": "0198cad8-ea57-7ad7-a3d4-520925c5cf51.jpg",
+    "prompt": "Two worlds have collided and a battle is about to begin between them",
+    "negativePrompt": "",
+    "model": "5fc80ba1-5a58-4df3-b289-37f2cfc74574",
+    "modelName": "Battle Arenas",
+    "customSeed": -1,
+    "w3CTraceId": "6311040f352da924258961f61e6834fd",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

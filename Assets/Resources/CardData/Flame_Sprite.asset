@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0932eb573901eba4bbea025ea44dcb7f, type: 3}
+  m_Name: Flame_Sprite
+  m_EditorClassIdentifier: 
+  cardName: Flame Sprite
+  frontSprite: {fileID: 1060656772834530890, guid: 3c450dc4916adbd41b5397d3dce6b95b, type: 3}
+  backSprite: {fileID: -2508225034509640930, guid: 345b81c0d6c19794d8de5455f8a568ec, type: 3}
+  deckList: {fileID: 8639059498363233603, guid: e50cdf94161057249b2e545dbababe3c, type: 3}
+  cardtype: 00000000
+  resources: 02000000

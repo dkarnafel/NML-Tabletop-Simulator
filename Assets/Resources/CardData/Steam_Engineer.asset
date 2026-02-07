@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0932eb573901eba4bbea025ea44dcb7f, type: 3}
+  m_Name: Steam_Engineer
+  m_EditorClassIdentifier: 
+  cardName: Steam Engineer
+  frontSprite: {fileID: 3531196596314079397, guid: 7bf7aa4f7cfcee34d929d9f52bd54577, type: 3}
+  backSprite: {fileID: -2508225034509640930, guid: 345b81c0d6c19794d8de5455f8a568ec, type: 3}
+  deckList: {fileID: -522479058998242713, guid: 9b8f7a1ca41c0e3478da12ce993c02f8, type: 3}
+  cardtype: 00000000
+  resources: 0200000003000000

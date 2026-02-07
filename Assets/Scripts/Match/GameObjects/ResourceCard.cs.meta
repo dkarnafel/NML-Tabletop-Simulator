@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e4f6083f1894f3643a7c45cfbc67094b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - backSprite: {fileID: -3310987976719944426, guid: 10362cdc4ba811c4b8f4e2de3aadd974, type: 3}
+  - primalSprite: {fileID: -4939798948205311135, guid: 3faa8cced341e5049acdba44ad5fde33, type: 3}
+  - arcaneSprite: {fileID: 2979428354783528590, guid: 0a824db0a0a7e184c8a19d6b4accccb8, type: 3}
+  - refinedSprite: {fileID: 1428693132951864762, guid: 729456ea046303442b7bf74320eae652, type: 3}
+  - techSprite: {fileID: -2215307738010419802, guid: 6c3d37763a1c25e458b1e348da613498, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

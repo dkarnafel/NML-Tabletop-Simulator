@@ -1,0 +1,803 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8254ee3d766a8aa4e8e9fc96d11c5cef, type: 3}
+  m_Name: CardArtDatabase_main
+  m_EditorClassIdentifier: Assembly-CSharp::CardArtDatabase
+  entries:
+  - cardName: A Changed Man
+    sprite: {fileID: -4519875336784178882, guid: f2dd0ff1c2c6234409ba710b381e6fd6, type: 3}
+  - cardName: Absorbing Shield
+    sprite: {fileID: -4729844655640164086, guid: d9b8321479dc0c94ca2465cf6ef23b12, type: 3}
+  - cardName: Adapting Beast
+    sprite: {fileID: 5449416797740699714, guid: 0211239e641bb804d80578c9747606f7, type: 3}
+  - cardName: Adaptive Archer
+    sprite: {fileID: -2401831424667727697, guid: af730a45a77c575438ba5ea086d07008, type: 3}
+  - cardName: Adaptive Defense
+    sprite: {fileID: -2376710525278263292, guid: 49fbcb1c7c5227f488fa71cd35abd113, type: 3}
+  - cardName: Adept Archer
+    sprite: {fileID: -844857827250963109, guid: e9b7191d35ecf1b4e81746de80f4a302, type: 3}
+  - cardName: Adrenaline Rush
+    sprite: {fileID: 7843255245660498239, guid: 11b26df35652ab84598a553cf59cc80a, type: 3}
+  - cardName: Advance Leader
+    sprite: {fileID: -15077462291980997, guid: 4676b35fd8c75b14d8cd1899bc017a2a, type: 3}
+  - cardName: Aggressive Advantage
+    sprite: {fileID: -8081775831759366651, guid: 60e6d5497da2eb44dbf4a5996441a4b9, type: 3}
+  - cardName: Aggressive Arms Merchant
+    sprite: {fileID: -5903877972738923016, guid: 8e18f97b5d11d004491ba7ab5cda67e0, type: 3}
+  - cardName: Aggressive Mage
+    sprite: {fileID: -576773572148516116, guid: df425396499194b4e8d9cbf80064031b, type: 3}
+  - cardName: All for One
+    sprite: {fileID: 9072540894393379982, guid: 3c4153cda4acacd48ae075bc0734d4d0, type: 3}
+  - cardName: Alter the Land
+    sprite: {fileID: -7050420182371863478, guid: fd27a35909206a34eb1baf3f1b0e5285, type: 3}
+  - cardName: Amused Spectator
+    sprite: {fileID: -7466468209886152811, guid: 37baa39e76768304cba4d02054921956, type: 3}
+  - cardName: And Branches Below
+    sprite: {fileID: 8833307810297683563, guid: a8812ea9366e9b3408a0a1aa35195ea8, type: 3}
+  - cardName: Angry Protestor
+    sprite: {fileID: -5636606590378357553, guid: c7df4aab6651e2547977341b5540b609, type: 3}
+  - cardName: Anti-Tech Fighter
+    sprite: {fileID: -2112751619760365396, guid: 5f49670618d384249b12724ada7ebe7c, type: 3}
+  - cardName: Anticipated Leap
+    sprite: {fileID: -1075588838036869030, guid: 642ebffb19520434a9d429e213f6eb79, type: 3}
+  - cardName: Apparatus Dragonling
+    sprite: {fileID: 5677203911087210031, guid: 57ae68dc70c56d5498fb9653af9b55cf, type: 3}
+  - cardName: Arc Shooter
+    sprite: {fileID: -2811444119968650530, guid: e6e0e98bea393024ca5d20b9cd9f1ddc, type: 3}
+  - cardName: Arcane Cannon Blast
+    sprite: {fileID: 2342367839241007770, guid: c494bf37530be6542a80f110f13aa6e6, type: 3}
+  - cardName: Arms Master
+    sprite: {fileID: -3821789165193111387, guid: 2aebc3f09b99752458cb7d1004c69a52, type: 3}
+  - cardName: Artificer's Apprentice
+    sprite: {fileID: 8942053555796777763, guid: 38ffa14c9d5deeb44a6e1ed943de25d2, type: 3}
+  - cardName: Astute Learner
+    sprite: {fileID: 5604793086571608154, guid: abc06cb28414eb544a697c222ec201d2, type: 3}
+  - cardName: Astute Study
+    sprite: {fileID: -732913979280086825, guid: 45ec785bb38c63a4897a31f58ac56fae, type: 3}
+  - cardName: At Any Cost
+    sprite: {fileID: 437862757702936626, guid: 3f191f5c3380d8b4790074528fd6a1b9, type: 3}
+  - cardName: Azakoth, Lord of Death
+    sprite: {fileID: -4296709841828836841, guid: 6953d9135c8448f46b1d18a976fe2081, type: 3}
+  - cardName: Backlash Wave
+    sprite: {fileID: 7338568116355108820, guid: dbd29e8818aefd54c84a37004761448b, type: 3}
+  - cardName: Bamboo Lover
+    sprite: {fileID: -7234036537895560164, guid: b8bb38affdd0ec14a863476f09f5639b, type: 3}
+  - cardName: Banana Fury
+    sprite: {fileID: 5118216700167533565, guid: 82725074483d58841ba874ba2fdda5da, type: 3}
+  - cardName: Battle Medic
+    sprite: {fileID: -3377482266395632234, guid: 132da77f96a8ada48aecdcb9858d089c, type: 3}
+  - cardName: Battle Trained Medic
+    sprite: {fileID: 8866736180968494289, guid: fedf00bed97d8cf4ea65fe3544a44298, type: 3}
+  - cardName: Battlefield Server
+    sprite: {fileID: -2000514109574079244, guid: dbccee0c2b9b702449441f205d1fbb46, type: 3}
+  - cardName: Beast Brute
+    sprite: {fileID: -5159897308207964774, guid: 5c43fac1368e2314cb96452cfd1c0aa5, type: 3}
+  - cardName: Beat the Drums
+    sprite: {fileID: -1173863479014386565, guid: b28cde4609938e64e82b84d3bbdab87e, type: 3}
+  - cardName: Bei Pan, Once Friend
+    sprite: {fileID: 1192978299877344840, guid: fdc374b5a99b8a8428cd9662359c363a, type: 3}
+  - cardName: Berserk Champion
+    sprite: {fileID: -8453201865982617017, guid: c4c569e4990ce864c8ddfcd2b9a6d992, type: 3}
+  - cardName: Berserker Shrooms
+    sprite: {fileID: -3737414965060865704, guid: 867ae229ca86ad842847bcc3b3cd0165, type: 3}
+  - cardName: Berserker Technique
+    sprite: {fileID: -5943976790739872849, guid: 10199d31681013e47b1f84b65c4a898d, type: 3}
+  - cardName: Big Swing
+    sprite: {fileID: -160384036497439183, guid: 4dd29f9c06a64d94fa8e9be8b422e701, type: 3}
+  - cardName: Blast Back
+    sprite: {fileID: -2740837679203916239, guid: 8b0ded8638945f0448ff807fee79ea12, type: 3}
+  - cardName: Blast Master
+    sprite: {fileID: 8196828060886117810, guid: 9f25cf97170f4754b8d3a35c7f06bc8c, type: 3}
+  - cardName: Blaster Tinkerer
+    sprite: {fileID: 1521829576926981642, guid: fd1e41edf2590d44a8efe2254cf221e7, type: 3}
+  - cardName: Blood Crazed Goblin
+    sprite: {fileID: 7218096585885959477, guid: e183b826a942d3144aa242e1e667e5ee, type: 3}
+  - cardName: Bolster the Fort
+    sprite: {fileID: 8754005937316814846, guid: 9fa9e6c2fb7390243aca8aaa7597a9cc, type: 3}
+  - cardName: Boot Freezer
+    sprite: {fileID: -6857102970841409502, guid: 40b8408fc682edc418d36704d57eacfc, type: 3}
+  - cardName: Bounce Pad
+    sprite: {fileID: 4627701610218873806, guid: 9aa38861d4d07b644ba4fa9942a19f0a, type: 3}
+  - cardName: Bountiful Harvest
+    sprite: {fileID: -4325449158571755909, guid: 16cdccf3dc01f5a4ca8578150eac456a, type: 3}
+  - cardName: Bowman Trainer
+    sprite: {fileID: -8074340715586115472, guid: d8ce94b5560eb9c43bdd592d90c2dc3d, type: 3}
+  - cardName: Branching Vines
+    sprite: {fileID: -8898679266424719668, guid: 3696176cb6dfba645921098149afac25, type: 3}
+  - cardName: Break the Supports
+    sprite: {fileID: -3480022587053668286, guid: 754719254941e2942bdeaf124b563548, type: 3}
+  - cardName: Breathe Giver
+    sprite: {fileID: 5816034603556164198, guid: 2fe6c4272160c4441a0543a90b169f52, type: 3}
+  - cardName: Burning Both Ends
+    sprite: {fileID: -2634931559782447108, guid: d1691eb9e3d89b74c9d26db969f795c6, type: 3}
+  - cardName: Burning Pitch
+    sprite: {fileID: -9043611148106947818, guid: a5d85e15eff82a243a2020431346b346, type: 3}
+  - cardName: Calculated Convergence
+    sprite: {fileID: 8214646067605939833, guid: d692350adf1dfce45b5aa657d9952428, type: 3}
+  - cardName: Call to the Front
+    sprite: {fileID: -6377353900937308877, guid: 306f6ff6c89bad24da6325f53de823ba, type: 3}
+  - cardName: Caltrops
+    sprite: {fileID: 7307139459915714546, guid: 97ac1f6ad16d2084c9e0fd2f3caaaa87, type: 3}
+  - cardName: Caxoris, Amethyst Captain
+    sprite: {fileID: -8650593022470122999, guid: 9ae6a26569f09464a8b5d63b4a5df3c1, type: 3}
+  - cardName: Chains from Mother Earth
+    sprite: {fileID: -8518747257011364857, guid: 6646c00166cc12647addfb2588b1126e, type: 3}
+  - cardName: Chains of Binding
+    sprite: {fileID: -9137905331365717892, guid: 11451e16157894c4f910a426acc29cb0, type: 3}
+  - cardName: Challenge Issued
+    sprite: {fileID: -2960070382951121246, guid: 18cb7a7780a06da4e9b4a7b5bb88f6ba, type: 3}
+  - cardName: Chant Leader
+    sprite: {fileID: -4327603898938021052, guid: 860e0d98214052748980eea83162f1f1, type: 3}
+  - cardName: Charging Berserker
+    sprite: {fileID: -560174795674565454, guid: 14df109b5329d0848b10011c82d627b3, type: 3}
+  - cardName: Chill Chastise
+    sprite: {fileID: -2420485674313225045, guid: 5f5cca37bf44f2a4a98033046c93e08d, type: 3}
+  - cardName: Chink in the Armor
+    sprite: {fileID: -6248259110487285709, guid: 74db1d03d93d1234cb5b8844b13d2ac4, type: 3}
+  - cardName: Cloud of Arrows
+    sprite: {fileID: 7563343374993209684, guid: afef864a02727374b8b51d74228a489b, type: 3}
+  - cardName: Collision Force
+    sprite: {fileID: 10559491078183918, guid: 3be754b8bf1a06c4984e8375910ac416, type: 3}
+  - cardName: Combustible Device
+    sprite: {fileID: 5817997000218275108, guid: bead314fdc90d114da23dba01c4805ab, type: 3}
+  - cardName: Compacted Snow
+    sprite: {fileID: 5008159383999962015, guid: 2ce98121539e8bc4eb8ecb99b7c7e479, type: 3}
+  - cardName: Comrade at Arms
+    sprite: {fileID: -8852567192459488769, guid: 72c85f1825cb00d468ddd391feaa1aa0, type: 3}
+  - cardName: Conflict Bruiser
+    sprite: {fileID: -7617406223046311668, guid: 1b5ef9f3f79b8254da725356ed795282, type: 3}
+  - cardName: Constructed Construct
+    sprite: {fileID: 1922069720106838506, guid: b97219d0e5e79f74b8718ccea9593c58, type: 3}
+  - cardName: Coolant Technician
+    sprite: {fileID: 3587139082202343489, guid: a921634c215cb2e429d4907d89189152, type: 3}
+  - cardName: Corpse Barricade
+    sprite: {fileID: 5822887169125219800, guid: 6de3f22f35d5c9b4293db0aedda298e1, type: 3}
+  - cardName: Corruption Flinger
+    sprite: {fileID: 1015535759793161906, guid: 1160f62687871994285cc42d8e8fd8d0, type: 3}
+  - cardName: Cover Shooter
+    sprite: {fileID: 1541074699225525702, guid: 5afeb41c1132bc047a9160c131ca4227, type: 3}
+  - cardName: Crimson King
+    sprite: {fileID: 1724911077685937351, guid: 27e27421bcf84d7418875321622720fc, type: 3}
+  - cardName: Crunk, the Edumacated
+    sprite: {fileID: -6838775723574910877, guid: b5a6badc6a542a04a831bb9869b7a73b, type: 3}
+  - cardName: Crystal Goliath
+    sprite: {fileID: 8673415742111486948, guid: 173741bd696c4f942bc5f690ca23da97, type: 3}
+  - cardName: Crystalline Barricade
+    sprite: {fileID: 101360764052508605, guid: f4b721d5061bfb1439d8d01a35b4a2ce, type: 3}
+  - cardName: Dark Ember Braces
+    sprite: {fileID: -524709869126149649, guid: 4293b1a9203c97d46b9696164378244d, type: 3}
+  - cardName: Dark Lord of the Samnar
+    sprite: {fileID: 5041677768760880393, guid: 23b6c1f3024b5dc4abaccd4ab621857e, type: 3}
+  - cardName: Dark Wizard
+    sprite: {fileID: -7595022950757096327, guid: d903d1d30d8ff1b4381de3af12455638, type: 3}
+  - cardName: Darken the Sun
+    sprite: {fileID: 7927073507981756415, guid: e66615847f2dc56478e6463c175b8d41, type: 3}
+  - cardName: Daver'k, Swampborn
+    sprite: {fileID: -5113215789027838644, guid: 3d8b6cd4875927241af91b2b4d9df44f, type: 3}
+  - cardName: Deadsleep Duo
+    sprite: {fileID: 1707656771368049584, guid: a46ada89502dc114bb8c22a1ddc0a5e9, type: 3}
+  - cardName: Death Despising
+    sprite: {fileID: 8603538195873982731, guid: cddf1656d1b2b994d87b3c854f9367b4, type: 3}
+  - cardName: Death Mech
+    sprite: {fileID: -4813477342005392573, guid: a80fd1903dd45274696cb081077aa90c, type: 3}
+  - cardName: Death Throws
+    sprite: {fileID: 4163895840601761434, guid: c5d716ca0b003a34d8dd6c4fb685b0bf, type: 3}
+  - cardName: Deep City Forger
+    sprite: {fileID: -2822523854872951306, guid: f8a4b99f9ff153141a711c4c18abb8a7, type: 3}
+  - cardName: Defend the Hearth
+    sprite: {fileID: 3272358812338807466, guid: 220b916cd09f42e439ff79db72a71413, type: 3}
+  - cardName: Defensible Position
+    sprite: {fileID: 8356947414310953754, guid: 869b997dd040b144f8f86dac5a594310, type: 3}
+  - cardName: Desolate
+    sprite: {fileID: 5813901142850194316, guid: a9dddf927569f744eb3ce27cee59b9d4, type: 3}
+  - cardName: Desperate Fight
+    sprite: {fileID: -901952274361562804, guid: 9daed474e7d340648ad47df8b9a4d1bd, type: 3}
+  - cardName: Desperate Reinforcements
+    sprite: {fileID: 6690036224041704725, guid: 0cc79179b2c39804184f744d660edf59, type: 3}
+  - cardName: Detonator
+    sprite: {fileID: 7823720374256248602, guid: 87d23e23b0f89a44189168625b3b75ba, type: 3}
+  - cardName: Disciple of Force
+    sprite: {fileID: 6259644200247799984, guid: 4f5d0debe4f5f1e4c8e83cb96c4a10b2, type: 3}
+  - cardName: Dissipate Specialist
+    sprite: {fileID: -5630021952774849492, guid: f5c5a9cabcfdc824e9578783566479ae, type: 3}
+  - cardName: Don't Pity the Weak
+    sprite: {fileID: 8039322144272075404, guid: aa5632f5f70c67f44bff9a92307498c7, type: 3}
+  - cardName: Don't Turn Back
+    sprite: {fileID: -5301407322344653799, guid: b8d44f9c1f147ea4fa4996cf1cf95403, type: 3}
+  - cardName: Dr Fenlo
+    sprite: {fileID: -7225735591298870062, guid: 74d3cea169bc8d147b8cd68468efe7c4, type: 3}
+  - cardName: Drag Down
+    sprite: {fileID: 497149548243529193, guid: 2dd521efa664e2a488c29c1b682c00c6, type: 3}
+  - cardName: Dragon Pinger
+    sprite: {fileID: -3852846199550621777, guid: a9bba0ba9ed66334c964ea8194c33ada, type: 3}
+  - cardName: Draw from blood
+    sprite: {fileID: -831058455490821114, guid: 23efd8f79b3ed854584d5c2bf9d9e2b8, type: 3}
+  - cardName: Duel Trained Warrior
+    sprite: {fileID: 1943007879876766637, guid: a9e31d850af1e7940be050cdf8a9e76c, type: 3}
+  - cardName: Dumpster Diver
+    sprite: {fileID: -632350263397916234, guid: 5edbc5093ab2f1a40aef515284501cdf, type: 3}
+  - cardName: Earth Barrage
+    sprite: {fileID: -4706092443452762824, guid: d0053bd8cdc86ca42ad1ac3bb380882e, type: 3}
+  - cardName: Efficient Casting
+    sprite: {fileID: -2310802015989735996, guid: 648feb140c366954195b59724b7b55f3, type: 3}
+  - cardName: Efficient Recycle
+    sprite: {fileID: -1447827617566422298, guid: 22806cecabef2e84faa63961195ce5ec, type: 3}
+  - cardName: Eldritch Blast
+    sprite: {fileID: -2865405601892082587, guid: 443c28455035a4049bbbbb6e4a8f6330, type: 3}
+  - cardName: Elf Soldier
+    sprite: {fileID: -862281757140907838, guid: cc9ef2ff60491054580c8de775762c69, type: 3}
+  - cardName: Elf Support
+    sprite: {fileID: -981314029311148440, guid: 7cb4267be4570354c82a54cc851c74ac, type: 3}
+  - cardName: Elven Provisionary
+    sprite: {fileID: -8241402669387069828, guid: 6d15d3e7576314b4fa28552f2a06b1bf, type: 3}
+  - cardName: Empower the Mighty
+    sprite: {fileID: -216867243280058415, guid: 4cd068201f812284d8f8f333f4816776, type: 3}
+  - cardName: Encase in Ice
+    sprite: {fileID: -7539370010435878658, guid: 2759864c1acac09498768d874535ff7d, type: 3}
+  - cardName: Encouraging Words
+    sprite: {fileID: -5032288388729044346, guid: c9123c67f5723cc4eb48633bbfccb72c, type: 3}
+  - cardName: Energized Lynape
+    sprite: {fileID: 8007279092575741142, guid: f445cb85ee2e48446bcef841b5146670, type: 3}
+  - cardName: Energy Giver
+    sprite: {fileID: 117669704246539590, guid: bab39a163f49b03479512a2fa1cf6fff, type: 3}
+  - cardName: Energy Wires
+    sprite: {fileID: 3029847555822185169, guid: 74c398d873bf5484ea6c8419b7e4169e, type: 3}
+  - cardName: Enhance by Nature
+    sprite: {fileID: 9122994248404950897, guid: a336f773aded9f14bac8fc80d02f5116, type: 3}
+  - cardName: Erosion
+    sprite: {fileID: 6276903435589812396, guid: bea52362fcee4e84a9add9f039a387f3, type: 3}
+  - cardName: Essence Explosion
+    sprite: {fileID: -6974930702777615007, guid: 909b81f53415f20409a2cb9a56f9aff9, type: 3}
+  - cardName: Essence Extractor
+    sprite: {fileID: -4292346740465432981, guid: b2f9ec331ea60db40b0eea44780b3f2a, type: 3}
+  - cardName: Essence Stealer
+    sprite: {fileID: -4021087525817344918, guid: da47aba1d46ac0b4cb55c1209b8889fd, type: 3}
+  - cardName: Excessive Force
+    sprite: {fileID: 7627891257347448142, guid: 8c26787a7f2512540bddce5ea83fc899, type: 3}
+  - cardName: Exhaustion Exchange
+    sprite: {fileID: 467825839899047895, guid: b391eaf773f61cf43b1e406888707226, type: 3}
+  - cardName: Exploding Barricade
+    sprite: {fileID: -3249097516864964788, guid: e539cb41d82222a4eaf62ff9106da4c7, type: 3}
+  - cardName: Explorer of Realms
+    sprite: {fileID: -7738411806325439088, guid: d0385dd865696b046a2edab15608c91b, type: 3}
+  - cardName: Explosive Ending
+    sprite: {fileID: -1996315082442941118, guid: 0dbe9def3da835f4c9bf2e6a58b5acfb, type: 3}
+  - cardName: Fafnir, Greed Stricken
+    sprite: {fileID: -5473036559702191156, guid: 8f51b837c19c8f146931954e373ea590, type: 3}
+  - cardName: Fast Learner
+    sprite: {fileID: -1555706798837113285, guid: 7ca4d078f734f034998b6b19b37e26ce, type: 3}
+  - cardName: Fearless Hookmaster
+    sprite: {fileID: -8975345435811973665, guid: 850266dbc66048246a0203285575896c, type: 3}
+  - cardName: Fighter of evolution
+    sprite: {fileID: -1728259872954804058, guid: b714e0de9687ad74f909cd4985b72d0e, type: 3}
+  - cardName: Fire Sprite
+    sprite: {fileID: 3118126629844580154, guid: 5245fbefbd036c340b71a2a315c910a9, type: 3}
+  - cardName: Firestorm
+    sprite: {fileID: -7631190968821670002, guid: ae47f374176a6a24fa31cafd66a7a237, type: 3}
+  - cardName: Flame Sprite
+    sprite: {fileID: -8766771707621391473, guid: 39bbbc6142e3f9c4f974aa60873d4377, type: 3}
+  - cardName: Flock of shells
+    sprite: {fileID: -93307853863979550, guid: eee8c856b37502c4383b839e6d5f1f30, type: 3}
+  - cardName: Force Blast
+    sprite: {fileID: -6251126600887862677, guid: e60c8279203928c43bf5af4ec60faa74, type: 3}
+  - cardName: Force of a Hurricane
+    sprite: {fileID: -7373083575447595587, guid: d127a31bcc1077347bc64747a138de79, type: 3}
+  - cardName: Force of Aggression
+    sprite: {fileID: 3248752922113356397, guid: 4cacdbf7338355448bd9b3961c27d428, type: 3}
+  - cardName: Force of Decay
+    sprite: {fileID: -182367549416832299, guid: 0dc8575a03460ae41a1523b79f9d8ddd, type: 3}
+  - cardName: Force of Nature
+    sprite: {fileID: -335492312588212553, guid: cacff20ded91b864d9fccd9472ffefed, type: 3}
+  - cardName: Force of Oppression
+    sprite: {fileID: -2721551301264977191, guid: 8e317d84517c87b4e83a95ae5e2dd0ea, type: 3}
+  - cardName: Forest Guardian
+    sprite: {fileID: 2991878668428922199, guid: 43a8849ebe8008345b15b95f6ad5ffe6, type: 3}
+  - cardName: Forest Strider
+    sprite: {fileID: 3214558710415501817, guid: e71ec44fed7532d4b8da676db0ff2eca, type: 3}
+  - cardName: Forgotten Hero
+    sprite: {fileID: 8678944562330076557, guid: 77fe2bc164f2099468e38d12905668d3, type: 3}
+  - cardName: Fortifications
+    sprite: {fileID: -2483888331339646908, guid: 4418cdbb361b3c24cb7bd4ff8d357e93, type: 3}
+  - cardName: Fowl Magician
+    sprite: {fileID: 6238497868533451117, guid: e551dfc73c135144ba9e2b8867057678, type: 3}
+  - cardName: Frantic Knowledge Seeker
+    sprite: {fileID: 1419680073497782149, guid: 73b73e68994c22e479941c6ecd85207e, type: 3}
+  - cardName: Frenzied Goblin
+    sprite: {fileID: 8066421309910446679, guid: 6dee08f8996beb943a55e427ab8cfcb6, type: 3}
+  - cardName: Friendly Behemoth
+    sprite: {fileID: 925171996278343663, guid: fdb297e55fad8684e9f9c162b8c29d23, type: 3}
+  - cardName: Frost Bear
+    sprite: {fileID: 7639399252662708388, guid: 5d7361cf0b6b2fc46809f748e4f9c852, type: 3}
+  - cardName: Frost Giver
+    sprite: {fileID: 329720959365906047, guid: f1138f64a19ca6c44887036650b96dfe, type: 3}
+  - cardName: Frost Mech
+    sprite: {fileID: -5608473285755881325, guid: dd1a944964d22b2429ce9ce1e44c3955, type: 3}
+  - cardName: Frozen ground
+    sprite: {fileID: 5812091026499962120, guid: a02f76476c9428b45a33f114b79c61ca, type: 3}
+  - cardName: Fuse Wielder
+    sprite: {fileID: -5807603206699994862, guid: ff13d9524683ec04092e604a7abcb4e4, type: 3}
+  - cardName: Gaida, the Creator
+    sprite: {fileID: 6904675096117081577, guid: cfb6494861433704e8162aa0e137ff43, type: 3}
+  - cardName: Gas Bomb
+    sprite: {fileID: -8421743986690519208, guid: 4bf87c7e686e31c489f4d43f249852b7, type: 3}
+  - cardName: Gather the Family
+    sprite: {fileID: -6113984870530222029, guid: d2f929b924705634e8e6d4dee502b139, type: 3}
+  - cardName: Goading Orc
+    sprite: {fileID: 9107394959840685570, guid: 399bef9cfd92b4f448f1845306b48a59, type: 3}
+  - cardName: Goblin Looter
+    sprite: {fileID: 262235928175480215, guid: e5a9b1c5c4609ad499d6138dfb65b4c4, type: 3}
+  - cardName: Goblin Warlord
+    sprite: {fileID: -8712266224965746632, guid: 7357ade0a0c1bbc499a2067985327c01, type: 3}
+  - cardName: Great Minds
+    sprite: {fileID: 8343672106274454703, guid: a9ae98e9e614d3040a521cf518913331, type: 3}
+  - cardName: Greed
+    sprite: {fileID: -3120302708392793311, guid: cd504cacbacc1c5488b3811b36a50963, type: 3}
+  - cardName: Greed Stealer
+    sprite: {fileID: -5721460959043996381, guid: 7482da6ba7bad2a4a967b1c986faeac1, type: 3}
+  - cardName: Greedy Outcast
+    sprite: {fileID: 3515607034572533607, guid: e31c303abec40ba478a44e17c351ba02, type: 3}
+  - cardName: Guardians of the Hearth
+    sprite: {fileID: 3752139100673437323, guid: 177b191c6d6490f49856eda6d53d5558, type: 3}
+  - cardName: Hand Blast
+    sprite: {fileID: 795767922169713636, guid: 24fbaece4ebe3744da0323a0212eb31c, type: 3}
+  - cardName: Hao Qui, the Black Scar
+    sprite: {fileID: 1043684102506114116, guid: ea5d9150473c31f46bc82e536f632d54, type: 3}
+  - cardName: Hard Lander
+    sprite: {fileID: -769737949193442978, guid: 849608da7e256a647bdcbd58edb0e44d, type: 3}
+  - cardName: Health Compactor
+    sprite: {fileID: 8179425698534266709, guid: d2bdca0fe6ad0ef498c9326fdc0a168f, type: 3}
+  - cardName: Heartlink Void
+    sprite: {fileID: 123586462765058027, guid: bb9eba6d95edfc840bd8bc242a15e77f, type: 3}
+  - cardName: Heat Collector
+    sprite: {fileID: 5393882720779898726, guid: 3ef8dfa8a5279e64c96a25b2ebe993a0, type: 3}
+  - cardName: Heat Mech
+    sprite: {fileID: -7085736803535003393, guid: 08ab0357fce4bb2498506cb7dfc0fcce, type: 3}
+  - cardName: Heat Up
+    sprite: {fileID: -3495185662181895480, guid: 78a090e61228b8b4db891bf14f52bd93, type: 3}
+  - cardName: Heavy Panda Sniper
+    sprite: {fileID: 6363115759487987613, guid: 160b1df62e818cc4386af6689ebd0fd4, type: 3}
+  - cardName: Heed the Arensil
+    sprite: {fileID: 2686320838434898433, guid: 80b65bba7ce0bb745893d58ba28bf1f4, type: 3}
+  - cardName: Hellfire Branch
+    sprite: {fileID: 753181131665587389, guid: 37e8553520fe3da4b874b3635f091e70, type: 3}
+  - cardName: Heralds Call
+    sprite: {fileID: -4175508829530836895, guid: b73e9323da661ed408d4e5be4850a0b1, type: 3}
+  - cardName: Herozan, Master Monk
+    sprite: {fileID: -1251899143743715339, guid: f9c2bd62547f82f4180644f2ba6e802e, type: 3}
+  - cardName: High Ground
+    sprite: {fileID: -4061699276905609604, guid: 4cac6a9cf2a89304393f6deeceb70f24, type: 3}
+  - cardName: High Tech Shield Defense
+    sprite: {fileID: -3602760088681474316, guid: 7f42880b573e5e1428c11ce7200d614a, type: 3}
+  - cardName: Hitting the Books
+    sprite: {fileID: -3716641969969538080, guid: 964a85a560652a44c8bb53da4e007b1c, type: 3}
+  - cardName: Hold the Line
+    sprite: {fileID: 6631936369011927988, guid: 78317c74ae497404c80ba218f8cac797, type: 3}
+  - cardName: Holding the Line
+    sprite: {fileID: 1318083471251713449, guid: 4f2da8cac1fc70748afcdce195a83cea, type: 3}
+  - cardName: Holed In Kowla
+    sprite: {fileID: -56228234285125888, guid: f153a442bbdea4e4681d9863bea9a882, type: 3}
+  - cardName: Hot Feet
+    sprite: {fileID: 7650481671031646717, guid: 357346a7d3625124db117db204e6125a, type: 3}
+  - cardName: Hot Step
+    sprite: {fileID: -6826009974677490810, guid: 6372274213a2ea846b00e49c7e9f0f8f, type: 3}
+  - cardName: Huck and Heal
+    sprite: {fileID: -2657868990150690151, guid: 26bec8a61ee5ad342af34bc392a3abb3, type: 3}
+  - cardName: I hate Constructs
+    sprite: {fileID: 9176496917370018659, guid: b9d3426c507521a48bcbb09b375495a7, type: 3}
+  - cardName: Imitation of the Creator
+    sprite: {fileID: 2481880251221216194, guid: 637dbc00a58d7384ebc2381f34e7f022, type: 3}
+  - cardName: Inspiring Commander
+    sprite: {fileID: -990239405074993918, guid: 8431e0b3197925b4ca1aec4d066e4f96, type: 3}
+  - cardName: Ironcrowns Shield
+    sprite: {fileID: -3075099749158138402, guid: 972fdd72341cfef4581c83d0ef563ad9, type: 3}
+  - cardName: Jump Start Goblin
+    sprite: {fileID: 1700666311855284964, guid: 1942f9d4552f54b49be8c11e1b085e03, type: 3}
+  - cardName: Jungle Surveyor
+    sprite: {fileID: 3766819555355971506, guid: a6e802a98c9b45f46b1c908d8b67a307, type: 3}
+  - cardName: Kamikaze Goblin
+    sprite: {fileID: 9069630012448662779, guid: ceb89437464052f49a11bf9f45074fe9, type: 3}
+  - cardName: King Maelor Ironcrown
+    sprite: {fileID: 5337783185198508121, guid: dc8206f34d0233641ba149bbcd3b4b53, type: 3}
+  - cardName: King's Guard General
+    sprite: {fileID: 8630136807268051331, guid: 584ab0d8d40e7334cbbb004079619dce, type: 3}
+  - cardName: Kotik's Arms
+    sprite: {fileID: 4415663369597796469, guid: 839c060c045cee94e943d736e00c150d, type: 3}
+  - cardName: Kotik's Engine
+    sprite: {fileID: -3993823829592235949, guid: 3ef696e27b5f43a4bac4c5aba602b882, type: 3}
+  - cardName: Kotik's Head
+    sprite: {fileID: 2200279182941275389, guid: f19ced9e96b7cbb489f7dec3d6508dbe, type: 3}
+  - cardName: Kotik's Legs
+    sprite: {fileID: -948361280688769534, guid: 2ea85aca9f94d28489b8f2b7fc4a2177, type: 3}
+  - cardName: Kotik, the Constructed
+    sprite: {fileID: 6149985765955524116, guid: c7e6ed2a82098d8479e69b17157c6846, type: 3}
+  - cardName: Land Reclaimer
+    sprite: {fileID: 2824952337326739302, guid: 8e3dca14b2ee723438c2feced1a0119b, type: 3}
+  - cardName: Land Swap
+    sprite: {fileID: -7930454835976975546, guid: 2340111c922b8044191dcd423e9424ec, type: 3}
+  - cardName: Landmine
+    sprite: {fileID: -5594286572366323354, guid: ee2370b986d552a4190a017741e089d6, type: 3}
+  - cardName: Last Breath
+    sprite: {fileID: -6382286694527367325, guid: 457e3990d33555547a5f37a0360942bf, type: 3}
+  - cardName: Learned Crowgar
+    sprite: {fileID: -5987793812351300294, guid: 8a48810eac2835940ab4f2f148ec371e, type: 3}
+  - cardName: Life Gnome
+    sprite: {fileID: 7634127056178240515, guid: d3d6d943b57f6e447b56e1feb051d3d0, type: 3}
+  - cardName: Life Loathing
+    sprite: {fileID: -5886215622526846466, guid: ab695161c0230fe49ba7fbe14cb70e5b, type: 3}
+  - cardName: Life Mech
+    sprite: {fileID: -716257402976659279, guid: 1f3436a7e3068f54a8ba682d4caf4fd2, type: 3}
+  - cardName: Line Holder
+    sprite: {fileID: 3232677316670294868, guid: b84d1f68675566945bc5933bbcea491d, type: 3}
+  - cardName: Lionle, Deepest Roar
+    sprite: {fileID: -2337642364939902437, guid: 874929a916f321a40b60e478a9343ee6, type: 3}
+  - cardName: Lonely Cub
+    sprite: {fileID: 5692681095028547894, guid: f4b0a7ed5894115418537281edde7bd5, type: 3}
+  - cardName: Longest Bow Women
+    sprite: {fileID: -801574909204376871, guid: 05c0db24443e16e41b55b8a5eff8e667, type: 3}
+  - cardName: Longyu
+    sprite: {fileID: -4354347170734777201, guid: 921f7d8a5aeb00040b32660df9c7b345, type: 3}
+  - cardName: Lord of Exhaustion
+    sprite: {fileID: 7793096144556402078, guid: 5af0900537e563e47a9decbf1c53932b, type: 3}
+  - cardName: Lyra, Realmfilled Mathemetician
+    sprite: {fileID: 7109188299068831421, guid: 57e2144a84972984ab534c519f68c356, type: 3}
+  - cardName: Mage Adept
+    sprite: {fileID: 546190815181175339, guid: a334c647ccf73f347bb524c96283f378, type: 3}
+  - cardName: Magic Assassin
+    sprite: {fileID: 3264020935474423802, guid: 8fea562defc8b36449880c3fe6828c5c, type: 3}
+  - cardName: Magic Over Might
+    sprite: {fileID: 4202111775542019453, guid: e45fe4becdef0764ebce11857192617a, type: 3}
+  - cardName: Magic Shield
+    sprite: {fileID: 1574610775758209067, guid: cc9a6e38bdb44054aad4a93042ae26f9, type: 3}
+  - cardName: Magical Crossroads
+    sprite: {fileID: -2042439456488136863, guid: b89a65fdeb888d747ab0377dfcb8802b, type: 3}
+  - cardName: Magicless Mage
+    sprite: {fileID: -6892496885564875490, guid: 2a49910d12148a84481406ef791ae6cf, type: 3}
+  - cardName: Majestic Bracers
+    sprite: {fileID: 3538075959230977953, guid: d42fb0e5deb7e4f429e54454a358d67d, type: 3}
+  - cardName: Man-tapult
+    sprite: {fileID: -4836156607660683111, guid: 476135e5c14d9f243b2a16d6aeb1e178, type: 3}
+  - cardName: Mana Mage
+    sprite: {fileID: -5360154648337332820, guid: 1e08e557228dc974f894fac28da48e47, type: 3}
+  - cardName: Manned Wall
+    sprite: {fileID: -2773386326652215136, guid: a3626ee9b436e4845920be00dc235c83, type: 3}
+  - cardName: Master of War
+    sprite: {fileID: -6020931892715088228, guid: da930332080b4524480bfd704bd0edab, type: 3}
+  - cardName: Maternal Supporter
+    sprite: {fileID: 9202363213018179026, guid: 6e85b467d88de774ebb012f39840351c, type: 3}
+  - cardName: Menacing Orc
+    sprite: {fileID: -4526928344753056632, guid: 9b746466e3c193d4c97ee44267983a85, type: 3}
+  - cardName: Mini Elf
+    sprite: {fileID: -7287290277618085160, guid: a9e62bb613893944ebe7a5d7dfedf554, type: 3}
+  - cardName: Molting Horror
+    sprite: {fileID: 3894742601056412874, guid: c231e6e3fe457b34ea54aed39e7744d6, type: 3}
+  - cardName: Momentum Charger
+    sprite: {fileID: -3387441851479866719, guid: b35f247a0ccb94b4eace5b8f9e806ab0, type: 3}
+  - cardName: Momentum Drop
+    sprite: {fileID: -8406169667328682724, guid: 82464138d9ef610438fe928b857d2c9e, type: 3}
+  - cardName: Move Master
+    sprite: {fileID: 5267708193688603519, guid: 732d48c8dcf574b4795022120f55d9ef, type: 3}
+  - cardName: Muscle Orc
+    sprite: {fileID: -8179071792864054622, guid: f11974191169e7c428f55f4e4a6bf5ec, type: 3}
+  - cardName: Nature's Aid
+    sprite: {fileID: 8060801781746962497, guid: 6b75db5292a6c3c419f864f5a6cfb0c7, type: 3}
+  - cardName: Nature's Blight
+    sprite: {fileID: 8875252612311026986, guid: bcec8059e03babd4fa9142e497bf413d, type: 3}
+  - cardName: Nauseous Pit
+    sprite: {fileID: 6075281951769456420, guid: 5b6408240aa3ae34d9a4c59e0adc21e5, type: 3}
+  - cardName: Nicholaj, Community Gardener
+    sprite: {fileID: -3403138815542563307, guid: 7b7f5d24edacecc4ab0d722cb1a838f6, type: 3}
+  - cardName: Night Familiar
+    sprite: {fileID: 4715122344356341235, guid: 50060125e9988124da3fb845f9b44aa6, type: 3}
+  - cardName: Night Predator
+    sprite: {fileID: -3519954833201595171, guid: b259a11a573ecc34bac8afbb942bf3f8, type: 3}
+  - cardName: Night's Surprise
+    sprite: {fileID: 4688145616944781580, guid: 434535e20a121d24a86672a033d2d4a6, type: 3}
+  - cardName: Nightmarish Fiend
+    sprite: {fileID: -2321870809888067132, guid: e7fff59d20084d14b9f6c721d8b69d0a, type: 3}
+  - cardName: Nimble Archer
+    sprite: {fileID: -7886755184298908754, guid: 94bdc183b65560b4eb6e733187c73e94, type: 3}
+  - cardName: Off the World's Cliff
+    sprite: {fileID: -4511676114660882934, guid: 184cf3b39a145d64b8d0776970af4da9, type: 3}
+  - cardName: Oracle
+    sprite: {fileID: 4172304199761535817, guid: 13582207fceb2bc41b71036ec5e63e72, type: 3}
+  - cardName: Orc Farmer
+    sprite: {fileID: 2258749759946124051, guid: 95006424a16857a42ac0c8096288b4ec, type: 3}
+  - cardName: Oros the Devourer
+    sprite: {fileID: -7456864662063251844, guid: 68858d46ee1935a4799a6f5d051aa8ff, type: 3}
+  - cardName: Overdriven Power Cells
+    sprite: {fileID: -196694005565413698, guid: 374ff450727caaa4394b20043276279e, type: 3}
+  - cardName: Overexert
+    sprite: {fileID: -8913551164186412299, guid: 46784dc020785f04b8032b7e0fddf822, type: 3}
+  - cardName: Overworked
+    sprite: {fileID: 5989531422109016949, guid: a2e0b6c436a8951488a0c8b72d3a696e, type: 3}
+  - cardName: Overworked Tech
+    sprite: {fileID: -268433970756362974, guid: 81e73ff8c2c239c4a847c6b6a2a75597, type: 3}
+  - cardName: Panda Elite Guard
+    sprite: {fileID: -4380622164538939887, guid: 32f5ee098b81d7c4598e0c2bc7202b66, type: 3}
+  - cardName: Panda Monkey Business
+    sprite: {fileID: 3674497008430482963, guid: c3d9f8b16f8d25e4497ab3c4d541b760, type: 3}
+  - cardName: Panda Scout
+    sprite: {fileID: 1060119818067563053, guid: 4a5324045b7fa1547bd4c958142f4d8e, type: 3}
+  - cardName: Panda Warrior
+    sprite: {fileID: -2465024552560784285, guid: cc94edaaaee4542498128b4ca56ae01a, type: 3}
+  - cardName: Parliament Mother
+    sprite: {fileID: -333703339361868515, guid: 82ed25ebe78413a45a1b52320ead639f, type: 3}
+  - cardName: Parliament Protector
+    sprite: {fileID: 4118539780156429376, guid: 444713e514bdab148a5262633f6fe977, type: 3}
+  - cardName: Phillis
+    sprite: {fileID: -3223925538929911301, guid: d7ff8108b7667384592837d9080a9dbc, type: 3}
+  - cardName: Plague Rat
+    sprite: {fileID: -8421444663856273735, guid: b862a7886d4bc9d41858b379d73de699, type: 3}
+  - cardName: Plague Spread
+    sprite: {fileID: 7641951868146792709, guid: c68f3ec68f54c3241a59eb4459456c5e, type: 3}
+  - cardName: Polar Ape
+    sprite: {fileID: -744797078352175159, guid: 6c9e8ab0e88c8da409f28c9436b61959, type: 3}
+  - cardName: Power Gauntlets
+    sprite: {fileID: 8785563538751234713, guid: b211a0dfe4e3ea545ad0c512edbab900, type: 3}
+  - cardName: Power Shift
+    sprite: {fileID: -3160163321661713262, guid: 5cd0ae295a16b7644a7eab85947f7bcb, type: 3}
+  - cardName: Priest of the Forsaken
+    sprite: {fileID: 2314510228842848719, guid: 6f6288006bf6c5447bcdbc4ed8a32ee9, type: 3}
+  - cardName: Primal Instincts
+    sprite: {fileID: -7243657450967224016, guid: 6fbadac42dbac824f8674ed9f89e29e6, type: 3}
+  - cardName: Primed Wizard
+    sprite: {fileID: -73650143866185606, guid: ec008557d228edc479439976c872cdfa, type: 3}
+  - cardName: Protected Walls
+    sprite: {fileID: -109267831876794743, guid: 735b8d56fccab8942bec58656f3839f3, type: 3}
+  - cardName: Pumping Copper
+    sprite: {fileID: -6387322778336697101, guid: eff8c65d00a8d4642b5d2193197a6fa3, type: 3}
+  - cardName: Pursuer of Magic
+    sprite: {fileID: 530290717841082479, guid: 563f8fef7673e444a8ba0430aaf99192, type: 3}
+  - cardName: Pursuer of Power
+    sprite: {fileID: -8888552259804459679, guid: 5e36d3d096f560540a0a8a99f94c3b59, type: 3}
+  - cardName: Pursuit of Progress
+    sprite: {fileID: -4264212684433395725, guid: ae73a173527503f468f278f5d9b41485, type: 3}
+  - cardName: Push the Limits
+    sprite: {fileID: -6687788787705405635, guid: 33b9458dda79a184aa171e2c9f419510, type: 3}
+  - cardName: Quezit
+    sprite: {fileID: -3181411421661828164, guid: 0e62bf1a653169e42bb898e4fcc5ea87, type: 3}
+  - cardName: Quick Build Barricade
+    sprite: {fileID: -5328991518850561100, guid: 742db14824411194f8faebb162d3d6d4, type: 3}
+  - cardName: Quick Link
+    sprite: {fileID: -6298051591957336153, guid: 971b0081c2e82764da78bcc573ce3758, type: 3}
+  - cardName: Quick Step
+    sprite: {fileID: -6595336008210770153, guid: fad98abbea63e4e408b07b9001cf8314, type: 3}
+  - cardName: Rafters
+    sprite: {fileID: -2990308575378364548, guid: 2505c078e7bfa8a4d83e6cdac552ecd7, type: 3}
+  - cardName: Raised Field
+    sprite: {fileID: 6273294780011504837, guid: dc673ef3ef035b4408a7778d8ac443f0, type: 3}
+  - cardName: Reaching Cudgel
+    sprite: {fileID: -4485553674478713846, guid: 845b5ba148e7e1f49ba029eef28ce3a0, type: 3}
+  - cardName: Rebuilds
+    sprite: {fileID: 4210581113086333631, guid: ecc47cd74dada814dae1fe880d5253e8, type: 3}
+  - cardName: Reckless Attacker
+    sprite: {fileID: -8339830122925529385, guid: 4b3eb318910eb1349a4aa498e373def2, type: 3}
+  - cardName: Red Panda Lord
+    sprite: {fileID: -7377262004307717933, guid: e5b11e34ddeb0374f950a63bea3eca16, type: 3}
+  - cardName: Regal Servant
+    sprite: {fileID: -3809252469364072339, guid: 751ad5f66249083448f2157f41a0ea32, type: 3}
+  - cardName: Release the Prisoners
+    sprite: {fileID: 1610829770427688209, guid: 766482cd91d429d4cbefe6acb799af4b, type: 3}
+  - cardName: Relentless Attacker
+    sprite: {fileID: 8825302634135033379, guid: e6c1f887fec9b464092c5077e96fb7fd, type: 3}
+  - cardName: Reliable Support
+    sprite: {fileID: 4953024987454117103, guid: 8c675fa101eab26419129ec601f23888, type: 3}
+  - cardName: Resourceful Gravekeeper
+    sprite: {fileID: -2946623393128261848, guid: 4cb26460633eb0849b6cc962ec41b1e8, type: 3}
+  - cardName: Retired Hero
+    sprite: {fileID: 4292538558192562199, guid: e70967408aed3a848ba7072f64fb4635, type: 3}
+  - cardName: Reverse Fate
+    sprite: {fileID: 2771403625742423659, guid: 7dafb236e0701614fbdb59289d101823, type: 3}
+  - cardName: Rogoth the Ancient
+    sprite: {fileID: 8711065534789359472, guid: b50fe34702e25f84da84dca85c2889ad, type: 3}
+  - cardName: Rolling Logs
+    sprite: {fileID: -7312160621944015833, guid: 5e38513a3e37a0245b3d7943a9ad4257, type: 3}
+  - cardName: Rot the Stockpiles
+    sprite: {fileID: -2679455099108775688, guid: d19bc276128148849b1a415673213b8c, type: 3}
+  - cardName: Rush of Blood
+    sprite: {fileID: 1386945714933261703, guid: 6ca90cf6ebb638b4da8ef3db171a24ac, type: 3}
+  - cardName: Sanctuary
+    sprite: {fileID: -4895889454430329025, guid: 9f0790baa2db28b4283324d29244e0c1, type: 3}
+  - cardName: Scorch the Wounds
+    sprite: {fileID: -6646617333949954526, guid: a302a0887ffcbb24d88b2301077be5d4, type: 3}
+  - cardName: Scrap Scrounger
+    sprite: {fileID: -8709813573732961169, guid: c632e58cee8ba0844a0528ebd929a840, type: 3}
+  - cardName: Second Skin
+    sprite: {fileID: 4235975418956956276, guid: 48bcf83f8e363754abdfbe57288e9911, type: 3}
+  - cardName: Seek the Masters
+    sprite: {fileID: -2483669480450140235, guid: f95130de1e378b542a4d8a71279602bc, type: 3}
+  - cardName: Selfless Elf
+    sprite: {fileID: 6655843673029356584, guid: acbdcd028111b594983c1758182b1d96, type: 3}
+  - cardName: Sentinel of the Hearth
+    sprite: {fileID: 5541393677876181042, guid: bdb0e048d55cac748b4bbae47f55a537, type: 3}
+  - cardName: Sentry Archer
+    sprite: {fileID: -2594808845073990499, guid: 170be3f0e0baa134ea2b0916c11fa05a, type: 3}
+  - cardName: Shake the Sleep
+    sprite: {fileID: 3247946749470370523, guid: 7acb01dd7bba23543b8764a7fdf3e2e5, type: 3}
+  - cardName: Share the Burden
+    sprite: {fileID: -7809429546645339166, guid: cc76f70c3968c4e45a1351d991278bbf, type: 3}
+  - cardName: Shared Energy
+    sprite: {fileID: 1071807261246462297, guid: 27f91b2d8ed9e284ea828053e57ba413, type: 3}
+  - cardName: Shared Knowledge
+    sprite: {fileID: -7420354868988468305, guid: b8325a323e8a4624f85f155b33500251, type: 3}
+  - cardName: Shared Sacrifice
+    sprite: {fileID: 8237019203129571893, guid: 06fe0af95972a3e4787c3f71dd32fbd8, type: 3}
+  - cardName: Shield Master
+    sprite: {fileID: -8865355533123555452, guid: 47832b851bf2fa74a8bbf08a7937cd35, type: 3}
+  - cardName: Shock Tech
+    sprite: {fileID: 7812086553539272532, guid: 7bb0d5090a0d5f64f890f127f7e78f4e, type: 3}
+  - cardName: Short Arms, Sharp Blade
+    sprite: {fileID: 6210633723490468247, guid: 5d6282b58fef7844ea34729010ffe058, type: 3}
+  - cardName: Short Step
+    sprite: {fileID: -8040012629859292480, guid: 8d37d6713ea11694da5eaf6f4537f170, type: 3}
+  - cardName: Side Swiping
+    sprite: {fileID: 2944417102376055702, guid: 2d4aeff8531baec41817a7d9e0d9530e, type: 3}
+  - cardName: Silver Hand
+    sprite: {fileID: -1467308865766113670, guid: cf5ed8cca313dd64eb3b74f44cb21a88, type: 3}
+  - cardName: Skulk Mother
+    sprite: {fileID: 6501424646672881954, guid: 3e3c8dd14efd8bb4785106f3b52d0e88, type: 3}
+  - cardName: Skyscraping Forest
+    sprite: {fileID: -4260359660658106781, guid: 162d12f49737469448779bb4c81aa93e, type: 3}
+  - cardName: Sleep Hardened
+    sprite: {fileID: -5265784339059161720, guid: 3f718b18a3c5d9246a7e56773cd74fdd, type: 3}
+  - cardName: Sleep Sharer
+    sprite: {fileID: 4768333556160229165, guid: d65c9d929d9c50646aa49f84a594eafa, type: 3}
+  - cardName: Sleep Taker
+    sprite: {fileID: 8965622738358803804, guid: 4627331b18e41f54db63d3827def5ac9, type: 3}
+  - cardName: Sleepwalk Berserker
+    sprite: {fileID: -3812374162764991172, guid: 9deba5072a029bb4e922973aeabc835e, type: 3}
+  - cardName: Sleepwalk Fields
+    sprite: {fileID: 4304523498920588804, guid: 8fe29365b99f0784f902ffeeb0c70ccf, type: 3}
+  - cardName: Slothful Dead
+    sprite: {fileID: 4061614354992109569, guid: 4e5d3e6a3f3606e4d903fe1e7439d0ab, type: 3}
+  - cardName: Sludge Pit
+    sprite: {fileID: 1758274886467742657, guid: 9fd3f4b4fed2c5d419110c2a43667a80, type: 3}
+  - cardName: Sludge Tosser
+    sprite: {fileID: -1120665865481556172, guid: 42b79e9dddb66a74a9045fe0d925d6c8, type: 3}
+  - cardName: Snog
+    sprite: {fileID: -5706933688522187954, guid: 802917e191dc35345aa3913a28a36687, type: 3}
+  - cardName: Solid Ground
+    sprite: {fileID: -4671247943598538899, guid: 80ee3c5ce0bb0354db139628b6ff1fde, type: 3}
+  - cardName: Sparhawk the Forgiven
+    sprite: {fileID: -6542125169853973352, guid: a114e29c59aab1144b05f8c722b61f35, type: 3}
+  - cardName: Spellcaster Outlook
+    sprite: {fileID: 1298493782982160063, guid: e05feb38931c2fc46b56f98c1d5cb12a, type: 3}
+  - cardName: Spiked Barricade
+    sprite: {fileID: -9017754670951818219, guid: cf0afbeda93ce774f91e649e8f40cdf3, type: 3}
+  - cardName: Spring Stepper
+    sprite: {fileID: 8014755771064180735, guid: 82aa56ac441e13541a85cf122a6aa19a, type: 3}
+  - cardName: Spring to Life
+    sprite: {fileID: -8808517114222253886, guid: 99d9528f0da58ad47a0642bd8a303983, type: 3}
+  - cardName: Spring Trap
+    sprite: {fileID: -5069551349966831169, guid: 5cc27e5bd821af541b009268b5d1fb47, type: 3}
+  - cardName: Steady the troops
+    sprite: {fileID: -5413233286111879904, guid: ac1cae8cd8b08364fbbf3364b03a2954, type: 3}
+  - cardName: Steam Engineer
+    sprite: {fileID: 809259923798091115, guid: 0e2d0a3da882ffc49bf12bc857eee176, type: 3}
+  - cardName: Steam Pipes
+    sprite: {fileID: 2785947845074259021, guid: 1130604504ca3a1488df4a092a168723, type: 3}
+  - cardName: Steep Slope
+    sprite: {fileID: -4083269286907205130, guid: b88db72f4ab4ae04a894c6112cdbcf8a, type: 3}
+  - cardName: Stepping Stone
+    sprite: {fileID: 383406917244224251, guid: e077bec59ffd54f408f799b417a8a85f, type: 3}
+  - cardName: Stifling the shot
+    sprite: {fileID: 1601751188505816196, guid: 3dcc46bd46803a3489836d04e46a10ca, type: 3}
+  - cardName: Straight Line Berserker
+    sprite: {fileID: 7732839916085855069, guid: 56c10446af84f77488e89cb50ddbce2c, type: 3}
+  - cardName: Strength of the Line
+    sprite: {fileID: 7879338605837078383, guid: 9ec0006c64a851c46aa1f0037775577e, type: 3}
+  - cardName: Strengthening Spells
+    sprite: {fileID: 2841089275005686348, guid: fcbe01092474f32438810c782b720949, type: 3}
+  - cardName: Study the Landscape
+    sprite: {fileID: -5316986660559978665, guid: 806af57081735a043b49c704aaa03ff2, type: 3}
+  - cardName: Substitute
+    sprite: {fileID: 3723693088639220418, guid: db85c203de2869a44a3021ded89b7ca8, type: 3}
+  - cardName: Sum
+    sprite: {fileID: -8259635005774968514, guid: a46de66f1d5d67a4080d316a82c25b73, type: 3}
+  - cardName: Supply Runner
+    sprite: {fileID: -1067391573037047626, guid: 05e0ecc67df1da745ac5e24eb69a1df3, type: 3}
+  - cardName: Switcheroo
+    sprite: {fileID: -2527382602649791862, guid: 19b9ee61ef2b8e949a5c3120ee825d07, type: 3}
+  - cardName: Synthetic Apex
+    sprite: {fileID: 6859337255156920861, guid: caf1aa55ed4dd134daaaba0a3d473767, type: 3}
+  - cardName: Tactical Mage
+    sprite: {fileID: 5325678343804384457, guid: 9c84a1950182fc14e80eeac66b4233ad, type: 3}
+  - cardName: Tar Bomb
+    sprite: {fileID: 4998833087196032682, guid: 56196da2256584b459971176eff8e9d4, type: 3}
+  - cardName: Tar Pit
+    sprite: {fileID: -6973883469123352634, guid: f901d55d273c4094a9d13bdb0a32ea81, type: 3}
+  - cardName: Tear the Ligaments
+    sprite: {fileID: 1915274330573960477, guid: da09c7db083911f4a94d3055e041cee7, type: 3}
+  - cardName: Tech Enforcer
+    sprite: {fileID: -128827481478474757, guid: 97d78419e8f1eff49a7aeb8558336e48, type: 3}
+  - cardName: Tech Genius
+    sprite: {fileID: -8900584663654802569, guid: f33995a27aaea2042a9c2f6023e0982b, type: 3}
+  - cardName: Tech Healer
+    sprite: {fileID: 7460293386763763522, guid: 978cc8daeb5fe6f4b8362177f81b7eb9, type: 3}
+  - cardName: Technature
+    sprite: {fileID: 2866180756420611939, guid: fb90d5ddfe92f364baf59558fe39ffff, type: 3}
+  - cardName: Teleportation Wizard
+    sprite: {fileID: 2235004997436439928, guid: f63ddb6ec0a3a6c47bbfae4064b986a6, type: 3}
+  - cardName: Terraformer
+    sprite: {fileID: 8668504688643368951, guid: 45a95dfe60169974a86313c259a5096a, type: 3}
+  - cardName: The Best Defense
+    sprite: {fileID: -1533488704619795336, guid: 42c0af3ff5a3cfd4480f223b95601551, type: 3}
+  - cardName: The Most Strategic Place
+    sprite: {fileID: -8284592649977575154, guid: 5a2842e3f0b50114ca9ca9d32cbfe727, type: 3}
+  - cardName: The Realm Enhanced
+    sprite: {fileID: -4373265657718244729, guid: 584ae10326b3ac64a9fcb8f63df31f39, type: 3}
+  - cardName: Throw Away
+    sprite: {fileID: -1658250909509021621, guid: 20a508c22f065e14b81bd876bc429d4a, type: 3}
+  - cardName: Tilled Earth
+    sprite: {fileID: -5016589819107322759, guid: 32041020fc316494ca49ba99b400bbd9, type: 3}
+  - cardName: Too Bogged Down
+    sprite: {fileID: 1557345219683063223, guid: f76bea1f9933ecf448a57970e2da4e3e, type: 3}
+  - cardName: Tough Brawler
+    sprite: {fileID: 5294199272261113299, guid: 10b45ef5e0f9b9043afcef455eaa33b0, type: 3}
+  - cardName: Toxic Doorway
+    sprite: {fileID: 5298768869801577843, guid: 5b33e2f8dc0482a4589884dd0023bf73, type: 3}
+  - cardName: Transference Circle
+    sprite: {fileID: 8550541672886956570, guid: 2ca74f7093a4d3346a954f36fcc9027a, type: 3}
+  - cardName: Treasure Seeker
+    sprite: {fileID: -9002659212353450807, guid: a1557913f3d3b404c8b39b820979226f, type: 3}
+  - cardName: Troop Leader
+    sprite: {fileID: 7291289842479540876, guid: 2d3320278b75d294bb9ada99479abc9f, type: 3}
+  - cardName: Troop Ravager
+    sprite: {fileID: -8531872451980477888, guid: 1865ce9a1628f214396da1a931f8b3bb, type: 3}
+  - cardName: Undead Groom
+    sprite: {fileID: 2036514873121169790, guid: ba8f8c988aed24149ae88eb4c46216d3, type: 3}
+  - cardName: Unexpected Upheaval
+    sprite: {fileID: 3806016467268204022, guid: bc4f6308931c13a429485b393da44949, type: 3}
+  - cardName: Unified Battalion
+    sprite: {fileID: -3914893512549126053, guid: 9f34fa055ab7c8b4e9c967f5a83f755d, type: 3}
+  - cardName: Vaulted Trees
+    sprite: {fileID: 3036989654217385549, guid: 2a4be3a46d19df2438c2ccb6e1285198, type: 3}
+  - cardName: Veiled Bride
+    sprite: {fileID: -4509737459891243568, guid: 339e6bcc89ac7774cb52a3a8c9e521b7, type: 3}
+  - cardName: Verdant Reflection
+    sprite: {fileID: 542534692025591770, guid: 10ccfba7838dec64982e818ea0ef9f27, type: 3}
+  - cardName: Vine Slasher
+    sprite: {fileID: -8336602713103260223, guid: e7e266e89fc66a44ab3bdcf02c51b369, type: 3}
+  - cardName: Void Charged
+    sprite: {fileID: 1289053320766598173, guid: 8cf5fac47dcf5f14bb0f4eee0d5b7f8c, type: 3}
+  - cardName: Void Striker
+    sprite: {fileID: -4522911397433978795, guid: 2705671ec1c4d2c4398f0ea2206196f5, type: 3}
+  - cardName: Void Warp
+    sprite: {fileID: -1121827954980576268, guid: 58e6cece64683c246978f71fe82c2ab6, type: 3}
+  - cardName: Wall Breacher Lizard
+    sprite: {fileID: 1231998206514171469, guid: 52922c10023db4b47bba66d96780aa87, type: 3}
+  - cardName: Wall of Skulls
+    sprite: {fileID: -6788965922973542469, guid: 9f9ce89c01bf8fb4eadd26917cd8d4fe, type: 3}
+  - cardName: Wall Sentinels
+    sprite: {fileID: -1073495845895749034, guid: e11928fd1d998414c9a4b2832fcfbd9f, type: 3}
+  - cardName: Wall Tech
+    sprite: {fileID: -3861010707503003128, guid: 00d188804ef26d0418f3f9c8ef70c661, type: 3}
+  - cardName: War Fanatic
+    sprite: {fileID: -3149020300390508976, guid: cab68df05e9ccf2459adfb0edb4de512, type: 3}
+  - cardName: War-Forged Masochist
+    sprite: {fileID: 4915739792441040171, guid: bee51a2d6d2200e4e8d88a235fc2ca2a, type: 3}
+  - cardName: Warlock's Disciple
+    sprite: {fileID: -5583704184483701065, guid: 3668b8a544aa1da4d81368017fd38adc, type: 3}
+  - cardName: Wide Guard
+    sprite: {fileID: 2688599880488769266, guid: 3da89d732cb5355498a06d7ff6fc9798, type: 3}
+  - cardName: Wield the Arcane
+    sprite: {fileID: -8898607266752641212, guid: 9dd9c849a0732dd42a40a1ee3315dbcf, type: 3}
+  - cardName: Wired Trash Panda
+    sprite: {fileID: 61652200021905769, guid: cea1b3aa6047bf148a1018d6c4b1e67c, type: 3}
+  - cardName: With Roots Above
+    sprite: {fileID: -2276973689827451030, guid: 3e529a9126c0b4b4ab1a64a27dfdb751, type: 3}
+  - cardName: Work as One
+    sprite: {fileID: -8285476316168804219, guid: eab2cb912d2250244b83bbe8e38c9a35, type: 3}
+  - cardName: Worn Bricks
+    sprite: {fileID: -5937570260837785766, guid: 41efab5bb9992b545895a05676c3e7a2, type: 3}
+  - cardName: Zyrrien, The Grand Wizard
+    sprite: {fileID: -4726802748876226211, guid: 257082c542d5f41459d93e19b36fc33e, type: 3}

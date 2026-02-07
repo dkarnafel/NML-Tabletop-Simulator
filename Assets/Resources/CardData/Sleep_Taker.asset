@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0932eb573901eba4bbea025ea44dcb7f, type: 3}
+  m_Name: Sleep_Taker
+  m_EditorClassIdentifier: 
+  cardName: Sleep Taker
+  frontSprite: {fileID: 4959145256852745873, guid: 3a45586d17e6fe74783f2c272009b888, type: 3}
+  backSprite: {fileID: -2508225034509640930, guid: 345b81c0d6c19794d8de5455f8a568ec, type: 3}
+  deckList: {fileID: 5890615416137263243, guid: 5cb01c4483498514a8e620928b5b99da, type: 3}
+  cardtype: 00000000
+  resources: 02000000

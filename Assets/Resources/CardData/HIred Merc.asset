@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0932eb573901eba4bbea025ea44dcb7f, type: 3}
+  m_Name: HIred Merc
+  m_EditorClassIdentifier: 
+  id: 0
+  cardName: Hired Merc
+  frontSprite: {fileID: -7165072047965279104, guid: 1e271b3ca86d06048b36758d07b4fb1b, type: 3}
+  backSprite: {fileID: -2508225034509640930, guid: 345b81c0d6c19794d8de5455f8a568ec, type: 3}
+  deckList: {fileID: -3552268160698969004, guid: f7a335703b701c8479bcf17c4b21243c, type: 3}
+  cardtype: 00000000
+  resources: 04000000
